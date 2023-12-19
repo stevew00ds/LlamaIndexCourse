@@ -1,0 +1,4 @@
+[{
+	"model": "gpt-4",
+	"api_key": "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"
+}]
